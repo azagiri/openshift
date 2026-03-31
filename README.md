@@ -7,3 +7,8 @@ $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 
 
+Kubernetes troubleshooting:
+
+1. Imagepull backoff
+2. Crashlook backoff
+3. OOMKilled 
